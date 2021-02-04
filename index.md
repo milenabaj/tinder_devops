@@ -5,12 +5,10 @@ The **_Applied Data Science_** journal club explores research topics in Data Sci
  
 **_The meeting structure:_**\
 The paper and the presenter will be announced ahead of the meeting. The idea is that all attendees read the article beforehand and come up with questions.  
-
 -	Intro 5’ 
 -	Paper presentation 25’ 
 -	Questions & informal discussion 15’
-
-We will rotate presenters among the members to give everyone a chance to present. 
+\We will rotate presenters among the members to give everyone a chance to present. 
  
 **_Sign up:_**\
 The journal club is open to everyone, and we are happy to foster collaboration between Universities and different fields. To sign up, please send an email with your details (name, email, position, research topic) to:  
