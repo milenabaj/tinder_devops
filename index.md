@@ -10,7 +10,7 @@ The paper and the presenter will be announced ahead of the meeting. The idea is 
 We will rotate presenters among the members to give everyone a chance to present.  
 
 **_Timetable:_**\
-Timetable can be found at [talks](http://a.com).
+The timetable can be found at [talks](http://a.com).
 
 **_Sign up:_**\
 The journal club is open to everyone, and we are happy to foster collaboration between Universities and different fields. To sign up, please send an email with your details (name, email, position, research topic) to:  
