@@ -7,7 +7,8 @@ The **_Applied Data Science_** journal club explores research topics in Data Sci
 The paper and the presenter will be announced ahead of the meeting. The idea is that all attendees read the article beforehand and come up with questions.  
 -	Intro 5’ 
 -	Paper presentation 25’ 
--	Questions & informal discussion 15’ 
+-	Questions & informal discussion 15’
+
 We will rotate presenters among the members to give everyone a chance to present. 
  
 **_Sign up:_**\
