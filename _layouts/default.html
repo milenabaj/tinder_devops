@@ -15,8 +15,8 @@
     <!-- HEADER -->
     <div id="header_wrap" class="outer">
         <header class="inner">
-          {% if site.github.is_project_page %}
-            <a id="" href="{{}}"></a>
+          {% if !site.github.is_project_page %}
+            <a id="forkme_banner" href="{{}}"></a>
           {% endif %}
 
           <h1 id="project_title">{{ site.title | default: Description}}</h1>
