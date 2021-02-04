@@ -1,5 +1,6 @@
 
-The **_Applied Data Science_** journal club explores research topics in Data Science and its applications in various fields such as engineering, physics, health, social sciences and finances. The club aims to provide a place for discussing research papers, where academics can extend their knowledge, foster new ideas, and, possibly, form new collaborations. 
+The **_Applied Data Science_** journal club explores research topics in Data Science and its applications in various fields such as engineering, physics, health, social sciences and finances. The club aims to provide a place for discussing research papers, where academics can extend their knowledge, foster new ideas, and, possibly, form new collaborations.
+The club is inteded to run from February until June 2021.
  
 **_The meeting structure:_**\
 The paper and the presenter will be announced ahead of the meeting. The idea is that all attendees read the article beforehand and come up with questions. 
