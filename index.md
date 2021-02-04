@@ -1,5 +1,3 @@
-## Applied Data Science Journal Club
-
 
 The **_Applied Data Science_** journal club explores research topics in Data Science and its applications in various fields such as engineering, physics, health, social sciences and finances. The club aims to provide a place for discussing research papers, where academics can extend their knowledge, foster new ideas, and, possibly, form new collaborations. 
  
@@ -15,4 +13,7 @@ We will rotate presenters among the members to give everyone a chance to present
 The journal club is open to everyone, and we are happy to foster collaboration between Universities and different fields. To sign up, please send an email with your details (name, email, position, research topic) to:  
 Milena Bajic (Postdoc, DTU Compute): <mibaj@dtu.dk> or\
 Germans Savcisens (PhD student, DTU Compute): <gersa@dtu.dk>
+
+
+### Timetable
 
