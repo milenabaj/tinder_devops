@@ -11,7 +11,7 @@ We will rotate presenters among the members to give everyone a chance to present
 
 <ins>**_Schedule:_**<ins>
 
-<u>**_Sign up:_**<u>\
+<ins>**_Sign up:_**<ins>\
 The journal club is open to everyone, and we are happy to foster collaboration between Universities and different fields. To sign up, please send an email with your details (name, email, position, research topic) to:  
 Milena Bajic (Postdoc, DTU Compute): <mibaj@dtu.dk> or\
 Germans Savcisens (PhD student, DTU Compute): <gersa@dtu.dk>
